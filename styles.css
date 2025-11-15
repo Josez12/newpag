@@ -130,16 +130,16 @@
 .div-cont-formulario {
   background-color: #94d8e9;
   padding: 30px;
-  border: 2px solid #abf1ab;
+  border: 2px solid #3ea7ec;
   border-radius: 8px;
   width: 100%;
   max-width: 100%;
 }
 .campo {
-  background-color: #cfe6cf;
+  background-color: #b5daf8;
   padding: 15px;
   margin-bottom: 15px;
-  border: 1px solid #b7e2b7;
+  border: 1px solid #3ea7ec;
   border-radius: 5px;
 }
 .formulario label {
